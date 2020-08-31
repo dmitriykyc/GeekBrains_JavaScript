@@ -1,1 +1,1 @@
-# GeekBrains_JavaScript
+# Домашняя работа по обучению в GeekBrains
